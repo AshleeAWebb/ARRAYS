@@ -16,3 +16,7 @@ dogInfos.push();
 
 console.log(dogInfos)
 //Adds one or more elements to the end of an array, and returns the new length of the array.
+
+//The index of an array is the order of it's elements starting with 0 and moving up in lenght for example on the variable dogs "Hammy"'s index is 2
+
+console.log(dogs [2])
